@@ -1,0 +1,28 @@
+/* Task2.css */
+.trueContainer {
+    background-color: lightgreen;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .trueButton {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+  }
+  
+  .falseContainer {
+    background-color: lightcoral;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+  }
+  
+  .falseButton {
+    background-color: red;
+    color: white;
+    padding: 10px;
+  }
+  
